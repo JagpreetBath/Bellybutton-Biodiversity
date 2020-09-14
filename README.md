@@ -7,4 +7,6 @@ The human body is a source of thousands of types of bacteria, and different part
 The propose of this project is to help Roza build a dashboard using JavaScript and Plotly.js that can be accessed by research participants and researchers. Also, allow research participants to be able to visit a website and select their ID numbers to see which bacterial species live in their navels.
 
 # Result 
+![Final Result](./Resources/Result.png)
+
 Website: https://jagpreetbath.github.io/Bellybutton-Biodiversity/
